@@ -3,9 +3,8 @@ package com.xt.entity;
 import java.io.Serializable;
 import java.util.Date;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
+
 
 /**
  * 用于测试序列化的实体类
